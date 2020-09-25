@@ -1,0 +1,77 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+selection{
+    padding: 120px;
+}
+.gambar{
+    float: left;
+    margin: 5px;
+    width: 400px;
+    height: 350px;
+}
+.banner{
+    position: relative;
+    background: #7d5a5a;
+    min-height: 70vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.banner h2 span{
+    font-size: 2.3cm;
+    font-weight: 600;
+    color: #f3e1e1;
+}
+
+.banner h3{
+    font-size: 0.5cm;
+    color:  #f3e1e1;
+    font-weight: 100;
+    line-height: 0.8cm;
+}
+.protocol{
+    position: relative;
+    background: #7d5a5a;
+    min-height: 40vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card1{
+    width: 540px;
+    height: 410px;
+}
+.card2{
+    width: 540px;
+    height: 410px;
+}
+.card3{
+    width: 540px;
+    height: 410px;
+}
+.card4{
+    width: 540px;
+    height: 410px;
+}
+.gambar1{
+    height: 200px;
+    width: 100px;
+}
+.gambar2{
+    height: 200px;
+    width: 100px;
+}
+.gambar3{
+    height: 200px;
+    width: 100px;
+}
+.gambar4{
+    height: 200px;
+    width: 100px;
+    top: 50%;
+}
